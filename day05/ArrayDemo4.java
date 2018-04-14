@@ -19,8 +19,8 @@ class ArrayDemo4
 	{
 		int[] arr = {34,19,11,109,3,56};
 
-//		int max = getMax_2(arr);
-//		System.out.println("max="+max);
+		// int max = getMax_2(arr);
+		// System.out.println("max="+max);
 
 		printArray(arr);
 
