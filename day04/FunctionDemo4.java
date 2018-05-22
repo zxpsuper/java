@@ -66,5 +66,4 @@ class FunctionDemo4
 	{
 		printCFB(9);
 	}
-
 }

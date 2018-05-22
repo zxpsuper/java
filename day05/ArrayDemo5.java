@@ -9,8 +9,6 @@ class ArrayDemo5
 {
 	public static void main(String[] args) 
 	{
-//
-//		int[] arr = {4,1,8,7,3,8,2};
 		int[] arr = {13,15,19,28,33,45,78,106};
 		int index = halfSearch_2(arr,5);
 		System.out.println("index="+index);

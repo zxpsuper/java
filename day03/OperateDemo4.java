@@ -12,9 +12,12 @@ class OperateDemo4
 		// 0011
 		// 0111 === 7
 		System.out.println(6|3);
+
 		// 加一再取反 -8
 		System.out.println(~7); 
-		System.out.println(3<<2);//3左移两位。
+
+		// 箭头往那边就往那边移动
+		System.out.println(7<<2);//3左移两位。
 
 	}
 }
